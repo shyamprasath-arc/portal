@@ -28,7 +28,7 @@ const CTA = () => {
             {/* Primary Actions */}
             <div className="cta-actions">
               <a 
-                href="/resume.pdf" 
+                href="/shyamprasath-p-senior-software-engineer.pdf" 
                 className="btn btn-primary btn-large"
                 download
                 aria-label="Download resume PDF"
