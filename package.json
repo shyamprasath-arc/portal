@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://shyamprasath-arc.github.io/portfolio",
+  "homepage": "https://shyamprasath-arc.github.io/portal",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

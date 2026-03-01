@@ -18,9 +18,9 @@ const Hero = () => {
     },
     {
       icon: <FiLinkedin size={20} />,
-      href: '#',
+      href: 'https://www.linkedin.com/in/shyamprasath-p-8b25991b7/',
       label: 'LinkedIn',
-      ariaLabel: 'View LinkedIn profile (coming soon)'
+      ariaLabel: 'View LinkedIn profile'
     },
     {
       icon: <FiPhone size={20} />,

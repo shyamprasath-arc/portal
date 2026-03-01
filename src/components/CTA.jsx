@@ -62,9 +62,11 @@ const CTA = () => {
                   <span>GitHub</span>
                 </a>
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/shyamprasath-p-8b25991b7"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="cta-social-link"
-                  aria-label="Connect on LinkedIn (coming soon)"
+                  aria-label="Connect on LinkedIn"
                 >
                   <FiLinkedin size={20} />
                   <span>LinkedIn</span>

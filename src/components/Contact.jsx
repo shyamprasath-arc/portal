@@ -34,7 +34,7 @@ const Contact = () => {
     
     // Update the FORM_ID below with your actual Formspree form ID
     // Get one at: https://formspree.io/
-    const FORMSPREE_ENDPOINT = 'https://formspree.io/f/YOUR_FORM_ID';
+    const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xgolbkdd';
     
     setStatus({ submitting: true, submitted: false, error: null });
 
