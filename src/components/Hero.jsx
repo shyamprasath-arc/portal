@@ -94,7 +94,7 @@ const Hero = () => {
           {/* CTA Buttons */}
           <div className="hero-cta">
             <a 
-              href="/shyamprasath-p-senior-software-engineer.pdf" 
+              href="/portal/shyamprasath-p-senior-software-engineer.pdf" 
               className="btn btn-primary"
               download
               aria-label="Download resume PDF"
