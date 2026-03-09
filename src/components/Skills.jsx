@@ -51,7 +51,7 @@ const Skills = () => {
       skills: [
         { name: 'JavaScript', icon: <SiJavascript size={18} />, level: 'Expert' },
         { name: 'jQuery', icon: <SiJquery size={18} />, level: 'Advanced' },
-        { name: 'React', icon: <SiReact size={18} />, level: 'Intermediate' }
+        { name: 'React', icon: <SiReact size={18} />, level: 'Beginner' }
       ]
     },
     {
